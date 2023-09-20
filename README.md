@@ -1,7 +1,6 @@
 # Magic-8-Ball in C
 Sawda Khanam  
 September 19, 2023  
-NPower: Information Technology Fundamentals
 
 **Description:**  
 The Magic 8 Ball program is a fun and interactive application that emulates the famous fortune-telling toy. It engages the user in a simple but engaging conversation by allowing them to ask any question and receiving random answers from the mystical "8 Ball." Below is an overview of how the program works:  
@@ -18,5 +17,5 @@ In summary, the Magic 8 Ball program in C offers an engaging and entertaining in
 
 # Credit
 
-NPower
+Through NPower's Information Technology Fundamentals Program
 
