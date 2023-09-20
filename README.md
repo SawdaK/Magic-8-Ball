@@ -1,7 +1,6 @@
 # Magic-8-Ball in C
 Sawda Khanam  
 September 19, 2023  
-Tech.Skill.Validation: Intro to C Programming Language  
 NPower: Information Technology Fundamentals
 
 **Description:**  
@@ -16,4 +15,8 @@ The Magic 8 Ball program is a fun and interactive application that emulates the 
 **•	Exit Option:** The program allows the user to exit by providing a designated exit code or keyword (e.g., "exit" or "quit"). When the user enters this code, the program gracefully exits, bringing the Magic 8 Ball experience to a close.  
 
 In summary, the Magic 8 Ball program in C offers an engaging and entertaining interaction with the user. It emulates the classic toy's responses, encourages continued questions, and provides a smooth exit mechanism for users who wish to conclude their experience. This program combines randomness and user engagement to recreate the playful spirit of the Magic 8 Ball in a digital form.  
+
+# Credit
+
+NPower
 
